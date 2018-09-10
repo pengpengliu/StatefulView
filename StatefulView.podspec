@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'StatefulView'
   s.version      = '1.0.0'
-  s.summary      = ''
+  s.summary      = 'Stateful'
   s.homepage     = 'https://github.com/pengpengliu/StatefulView'
   s.authors      = 'Liu Pengpeng'
 
